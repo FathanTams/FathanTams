@@ -23,11 +23,14 @@ I love the entire process of developing AI/ML models to be utilized in medicine.
 
 ## 🔭 I'm currently working on
 
-- Rekam medis umum digital
+- Orobyte.AI
 
 ## 🌱 I'm currently learning
 
-- Python  
+- Python
+- HTML
+- CSS
+- Javascript
 <!---
 ## 💼 Technical Skills
 
