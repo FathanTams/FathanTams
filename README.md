@@ -27,10 +27,9 @@ I love the entire process of developing AI/ML models to be utilized in medicine.
 
 ## 🌱 I'm currently learning
 
-- Python
-- HTML
-- CSS
-- Javascript
+- Pandas
+- Matplotlib
+- Sk.Learn
 <!---
 ## 💼 Technical Skills
 
