@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://www.github.com/FathanTams" target="_blank" rel="n
 </h3>
 
 <h2 align="center">
-I'm a Medical AI/ML Engineer 💻, Doctor 🥼, and Crypto Enthusiast Ⳮ!
+I'm a Medical AI/ML Engineer 💻, Doctor & Bioinformatician 🥼, and Crypto Enthusiast Ⳮ!
 </h2> 👨‍⚕️
 
 I love the entire process of developing AI/ML models to be utilized in medicine. I love the challenge of probability and statistics that fill the world of medicine. 
@@ -25,11 +25,11 @@ I love the entire process of developing AI/ML models to be utilized in medicine.
 
 - Orobyte.AI
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently expert on
 
 - Pandas
 - Matplotlib
-- Sk.Learn
+- pytorch
 <!---
 ## 💼 Technical Skills
 
